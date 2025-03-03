@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/osama-saad98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/osama-saad98" height="30" width="40" /></a>
 <a href="https://www.behance.net/behance.net/osamasaad98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance.net/osamasaad98" height="30" width="40" /></a>
-<a href="https://medium.com/@osamaabukhaber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@osamaabukhaber" height="30" width="40" /></a>
+<a href="https://medium.com/@osamaabukhaber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@osamaabukhaber" height="30" width="40" /></a>        
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
