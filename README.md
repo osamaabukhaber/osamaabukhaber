@@ -10,7 +10,7 @@ with a solid foundation in backend development and a passion for building high-q
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/osama-saad98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/osama-saad98" height="30" width="40" /></a>
-<a href="https://www.behance.net/behance.net/osamasaad98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance.net/osamasaad98" height="30" width="40" /></a>
+<a href="https://behance.net/osamasaad98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance.net/osamasaad98" height="30" width="40" /></a>
 <a href="https://medium.com/@osamaabukhaber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@osamaabukhaber" height="30" width="40" /></a>        
 </p>
 
