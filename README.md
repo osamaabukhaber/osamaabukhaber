@@ -3,7 +3,7 @@
 # 💫 About Me:
 <strong>Passionate Software Developer</strong>
 with a solid foundation in backend development and a passion for building high-quality, scalable applications. I thrive on learning new technologies and applying them to real-world projects, constantly pushing myself to grow as a developer.
-<br><br>🎓 Bachelor's Degree in Computer Science — Luxor University<br>🏅 Graduation Project — Rated Excellent<br>📚 Current Study — MERN Stack at ITI Scholarship
+<br><br>🎓 Bachelor's Degree in Computer Science — Luxor University<br>🏅 Graduation Project — Rated Excellent<br>
 
 
 
