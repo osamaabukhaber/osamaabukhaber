@@ -2,7 +2,12 @@
 
 # 💫 About Me:
 <strong>Passionate Software Developer</strong>
-with a solid foundation in backend development and a passion for building high-quality, scalable applications. I thrive on learning new technologies and applying them to real-world projects, constantly pushing myself to grow as a developer.
+Software Engineer with experience building scalable full-stack and microservices applications using Node.js and NestJS, 
+with prior experience in .NET and C#. Proficient in Angular, React, and TypeScript, delivering modern, responsive, and 
+maintainable UIs. Strong background in software architecture, system design, and distributed systems with solid 
+knowledge of microservices patterns. Experienced with SQL/NoSQL databases, RESTful APIs, GraphQL, and ORMs such as 
+Entity Framework Core and Mongoose. Skilled in DevOps practices including Docker, CI/CD, cloud deployment, and 
+monitoring, with a strong focus on clean, high-performance code and strong attention to detail. 
 <br><br>🎓 Bachelor's Degree in Computer Science — Luxor University<br>🏅 Graduation Project — Rated Excellent<br>
 
 
