@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Osama</h1>
 
 # 💫 About Me:
-<strong>Passionate Software Developer</strong>
-Software Engineer with experience building scalable full-stack and microservices applications using Node.js and NestJS, 
+<strong>Software Engineer </strong>
+with experience building scalable full-stack and microservices applications using Node.js and NestJS, 
 with prior experience in .NET and C#. Proficient in Angular, React, and TypeScript, delivering modern, responsive, and 
 maintainable UIs. Strong background in software architecture, system design, and distributed systems with solid 
 knowledge of microservices patterns. Experienced with SQL/NoSQL databases, RESTful APIs, GraphQL, and ORMs such as 
